@@ -41,7 +41,7 @@
 
 ```typescript
 const chaoLinChen = {
-  role: "Robotics · AI/ML · Intelligent Automation",
+  role: "Robotics · AI/ML · Intelligent Automation Engineering",
   education: "Intelligent Automation Engineering @ NTUT (Five-Year Program, Class of 2029)",
   focus: ["ROS 2 Autonomy", "Computer Vision", "Industrial Anomaly Detection", "Mechatronics"],
   leadership: "President, NTUT Programming Club",
