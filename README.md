@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chao-Lin%20Chen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20AI%2FML%20%7C%20Intelligent%20Automation&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chao-Lin%20Chen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20AI%2FML%20%7C%20Intelligent%20Automation&Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Xyllence0122">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Robotics+%2B+AI%2FML+Engineer+in+Training;ROS+2+%C2%B7+SLAM+%C2%B7+OpenCV+%C2%B7+PyTorch;LSTM+Autoencoders+for+Semiconductor+Fab;Building+Robots+That+Work+in+the+Real+World" alt="Typing SVG" />
