@@ -105,11 +105,11 @@ I work across the full mechatronics stack — **perception, control, embedded sy
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| **Anomaly Detection** | ▰▰▰▰▰▱ | LSTM Autoencoders in PyTorch — 75% real-fault detection on semiconductor etcher data vs. 25% SPC baseline |
+| **Anomaly Detection** | ▰▰▰▰▱▱ | LSTM Autoencoders in PyTorch — 75% real-fault detection on semiconductor etcher data vs. 25% SPC baseline |
 | **Computer Vision** | ▰▰▰▰▰▱ | OpenCV HSV segmentation, dual-mask fusion, contour filtering — real-time tracking on embedded hardware |
 | **Object Detection** | ▰▰▰▰▱▱ | YOLO model training, dataset preparation — Honorable Mention, AI Image Recognition Competition |
 | **Autonomous Navigation** | ▰▰▰▰▱▱ | ROS 2 · SLAM mapping · Nav2 — deployed on standardized vehicle platform at WildBot Challenge |
-| **Control Systems** | ▰▰▰▰▱▱ | Dual-loop PID design, motor dynamics modeling, actuator saturation — MATLAB/Simulink |
+| **Control Systems** | ▰▰▰▰▰▱ | Dual-loop PID design, motor dynamics modeling, actuator saturation — MATLAB/Simulink |
 | **ML Benchmarking** | ▰▰▰▰▱▱ | Rigorous evaluation vs. Dense AE, Isolation Forest, SPC across 5 random seeds; synthetic-data methodology |
 
 </div>
