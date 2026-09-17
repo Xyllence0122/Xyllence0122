@@ -4,7 +4,7 @@
 
 **Robotics · Computer Vision · Industrial AI**
 
-[Portfolio](https://xyllence0122.github.io) · [LinkedIn](https://www.linkedin.com/in/%E5%85%86%E8%87%A8-%E9%99%B3-12a1a838b/) · [Email](mailto:mmmax.tw@gmail.com)
+[Portfolio](https://xyllence0122.github.io) · [LinkedIn](https://www.linkedin.com/in/chaolin-chen/) · [Email](mailto:mmmax.tw@gmail.com)
 
 </div>
 
